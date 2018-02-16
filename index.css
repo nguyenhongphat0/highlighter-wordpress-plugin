@@ -1,0 +1,11 @@
+.h__ {
+  cursor: default;
+  background: rgba(0, 0, 0, 0.1);
+}
+
+#selBox {
+  position: fixed;
+  top: 0; 
+  left: 0;
+  display: none;
+}
